@@ -59,7 +59,8 @@ int main() {
 
     } while (choice == 'Y' || choice == 'y');
 
-    printf("Great You're The Real One..DaGoat!\n");
+    printf("Your code has been executed\n");
 
     return 0;
 }
+
